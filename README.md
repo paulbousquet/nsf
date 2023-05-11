@@ -1,1 +1,1 @@
-# next step is to generalize this code for covariates and  higher order functions 
+This is code I wrote in 2019, wide-eyed and innocent, more or less still under the impression that p-values represented "probability the null is true". When I presented this to my first mentor, he said "this could be genius or it could be junk", which was enough for me to spend the time writing up a NSF proposal for it. I think there are still some merits to what I was going for, and I hope to take this idea and make it more rigorous. 
